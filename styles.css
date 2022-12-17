@@ -1,0 +1,190 @@
+body{
+    text-align: center;
+    background-color: white;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    
+}
+
+.top_container{
+    background-color:#EAF6F6;
+    padding-top: 100px;
+    position: relative;
+    
+
+}
+
+
+h1{
+    font-size: 80px;
+    margin: 50px auto 0 auto;
+    color:  #66BFBF;
+    line-height: 1;
+   
+   
+}
+.top_cloud{
+    width: 10%;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom_cloud{
+    width: 10%;
+    position: absolute;
+    left: 80px;
+    bottom: 300px;
+    
+
+}
+.mountain{
+    position: relative;
+    top: 70px;
+}
+
+h2{
+    
+    font-size: 40px;
+    color:  #66BFBF;
+    font-weight: normal;
+    font-family: 'Cinzel', serif;
+}
+ h3{
+    
+    color: #11999E;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+ }
+
+ a{
+    color: #11999E;
+ }
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+
+}
+ p{
+    line-height: 30px;
+    font-size: 18px;
+   
+    font-weight: bolder;
+ }
+
+ .me{
+    width: 10%;
+    margin-top: 100px;
+ }
+
+ .painting{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+ }
+
+ .Game_designing{
+    width: 15%;
+    float: right;
+    margin-left: 20px;
+ }
+
+ 
+
+ .bottom-container{
+    background-color: #66BFBF;
+    padding-bottom: 100px;
+    
+    
+ }
+
+ .footer-link{
+    font-size: 17px;
+    
+    padding-right: 25px;
+    text-decoration: none;
+    
+    display: inline;
+    position: relative;
+    top: 35px;
+    left: 15px;
+    color: #11999E;
+   
+   
+
+ }
+
+ a:hover{
+    color: #EAF6F6; 
+ }
+
+ .intro{
+    
+    font-size: 15px;
+    position: relative;
+    top: 25px;
+    left: 8px;
+    color: #EAF6F6;
+    font-weight: normal;
+
+ }
+
+ hr{
+    border-bottom-style: none;
+    border-top-style: dotted;
+    border-left-style: none;
+    border-right-style: none;
+    width: 3%;
+    border-width: 7px;
+    color: #EAF6F6;
+    margin: 100px auto;
+ }
+
+ .contact-me{
+      padding-top: 20px;
+      padding-bottom: 100px;
+ }
+ .explain{
+    width: 20%;
+    margin: 30px auto 30px auto;
+ }
+ .btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
+    text-decoration: none;
+  }
+ .skills{
+    padding-top: 20px;
+ }
+ .My_pofile{
+    width: 30%;
+    margin: auto;
+ }
+
+ .me1{
+    padding: 0 auto 50px auto;
+ }
